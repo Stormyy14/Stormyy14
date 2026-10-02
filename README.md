@@ -2,7 +2,7 @@
 
 Full-stack software engineer from Portugal. I care about the details you feel but rarely notice: fast, accessible interfaces backed by simple, well-designed systems that are cheap to run.
 
-Currently studying **Electrical & Computer Engineering at ISEP**. Previously spent 10 months as a software intern at **Hospital São Martinho**.
+Currently studying **Electrical & Computer Engineering**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mcorreia.me-111?style=flat-square&logo=googlechrome&logoColor=white)](https://mcorreia.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-martim--c-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martim-c/)
