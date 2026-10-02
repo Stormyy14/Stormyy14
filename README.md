@@ -5,7 +5,6 @@ Full-stack software engineer from Portugal. I care about the details you feel bu
 Currently studying **Electrical & Computer Engineering**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mcorreia.me-111?style=flat-square&logo=googlechrome&logoColor=white)](https://mcorreia.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-martim--c-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martim-c/)
 [![Email](https://img.shields.io/badge/Email-hello@mcorreia.me-111?style=flat-square&logo=maildotru&logoColor=white)](mailto:hello@mcorreia.me)
 
 ---
@@ -15,7 +14,6 @@ Currently studying **Electrical & Computer Engineering**
 | Project | What it is | Stack |
 |---|---|---|
 | [**Orbit**](https://github.com/Stormyy14/orbitline) | A thumb-first Android browser with an orbit start page, spaces, ghost tabs and on-device tracker blocking. | Kotlin · Jetpack Compose |
-| [**CoreAI**](https://github.com/Stormyy14/CoreAI) | A local AI platform with a 27.8M-param LLM trained from scratch, streaming chat and web search. Nothing leaves your machine. | Python · PyTorch · FastAPI |
 | [**mcorreia.me**](https://mcorreia.me) | My portfolio, with more projects, case studies and experience. | React · TypeScript · Cloudflare |
 
 #### Tools I reach for
