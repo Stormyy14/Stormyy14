@@ -1,8 +1,8 @@
-### Hi, I'm Martim 👋
+### Hi, I'm Martim (Stormy)👋
 
 Full-stack software engineer from Portugal. I care about the details you feel but rarely notice: fast, accessible interfaces backed by simple, well-designed systems that are cheap to run.
 
-Currently studying **Electrical & Computer Engineering**
+Currently studying **Electrical & Computer Engineering** and previously studied **Computer Science**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mcorreia.me-111?style=flat-square&logo=googlechrome&logoColor=white)](https://mcorreia.me)
 [![Email](https://img.shields.io/badge/Email-hello@mcorreia.me-111?style=flat-square&logo=maildotru&logoColor=white)](mailto:hello@mcorreia.me)
